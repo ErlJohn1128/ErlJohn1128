@@ -5,13 +5,14 @@
 ### Full-stack Developer
 
 <p>
-  Computer Science Student • Building things & learning how they work
+    Student Developer
 </p>
 
 <p>
-  <a href="SOON_TO_HAVE">LinkedIn</a> •
-  <a href="SOON_TO_HAVE">Facebook</a> •
-  <a href="mailto:erljohn004@gmail.com">Email</a>
+    <a href="https://www.linkedin.com/in/earl-john-bozar-009708387/">Linkedin</a> |
+    <a href="https://www.facebook.com/lovehannie1128">Facebook</a> |
+    <a href="https://discord.com/users/1266635014104420373">Facebook</a> |
+    <a href="mailto:erljohn004@gmail.com">Email</a>
 </p>
 
 </div>
@@ -20,15 +21,10 @@
 
 ## About Me
 
-I'm a Computer Science student interested in full-stack development,
+Currently studying, masterting full-stack development,
 backend engineering, and problem solving.
 
-I enjoy building web applications and learning how different parts
-of a system work together — from the frontend interface to the
-backend API and database.
-
-Currently improving my skills in Data Structures & Algorithms,
-C++, Django, React, and full-stack development.
+I enjoy building useful web applications. Currently improving my skills in Data Structures & Algorithms, C++, Django, Laravel, React, and full-stack development.
 
 ---
 
@@ -37,38 +33,32 @@ C++, Django, React, and full-stack development.
 ### Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="15" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="15" />
 </p>
 
 ### Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="15" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="15" />
 </p>
 
 ---

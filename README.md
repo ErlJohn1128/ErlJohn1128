@@ -24,7 +24,7 @@
 Currently studying, masterting full-stack development,
 backend engineering, and problem solving.
 
-I enjoy building useful web applications. Currently improving my skills in Data Structures & Algorithms, C++, Django, Laravel, React, and full-stack development.
+I enjoy building useful web applications. Currently improving my skills in Data Structures & Algorithms, C++, Django, Laravel, React.
 
 ---
 
